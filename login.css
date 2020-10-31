@@ -1,4 +1,8 @@
 /* NavBar */
+* {
+    box-sizing: border-box;
+}
+
 .navbar-inverse {
     background-color: #273A5A;
     border-color: #080808;
