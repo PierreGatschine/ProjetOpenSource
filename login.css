@@ -1,6 +1,8 @@
 /* NavBar */
 * {
     box-sizing: border-box;
+
+    color: #e1e5ff;
 }
 
 .navbar-inverse {
